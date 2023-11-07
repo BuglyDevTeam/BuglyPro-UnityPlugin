@@ -1,2 +1,2 @@
-# BuglyPro-UnityPluin
+# BuglyPro-UnityPlugin
 BuglyPro Untiy Plugin
