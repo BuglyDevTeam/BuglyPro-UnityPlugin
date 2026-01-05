@@ -1,16 +1,25 @@
 # SDK更新日志
-## version 1.7.3
-Release on 2025.05.15
-* 升级bugly 核心sdk iOS:2.8.0.6, Android:4.4.3.7
 
-## Version 1.7.2
+## Version 1.7.6
+Release on 2025.09.29
+* 升级Android sdk version: 4.4.6.5
+* 添加接口支持设置上报域名，iOS和Android平台支持海外和腾讯云上报域名
 
-Release on 2025.02.06
+## Version 1.7.5
+Release on 2025.09.16
+* 升级iOS sdk version: 2.8.1.12
 
-* 修复iOS app版本设置不生效问题；
 
-## Version 1.7.1
+## Version 1.7.4
+Release on 2025.08.18
+* 升级Android sdk version: 4.4.6.2, 支持Android 16KB Page size.
+* 升级iOS sdk version: 2.8.1.7
+* iOS 新增PrintLog2接口和FlushLog接口，用于记录和上报自定义log
+* 升级BuglyAgent到"BuglyPro 1.2.9"
 
-Release on 2023.11.07
+## Version 1.7.3
 
-* 发布UnityPlugin
+Release on 2025.05.16
+
+* Android sdk version: 4.4.3.7
+* iOS sdk version: 2.8.0.6
